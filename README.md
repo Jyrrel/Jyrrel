@@ -15,10 +15,10 @@
 <h4>
  <p align="center">
      &bull; 👩‍🎓 I'm currently studying at <a href="https://www.liceo.edu.ph" target="_blank">[LDCU</a></br>
-     &bull; 🖥️ All my projects are available at <a href="https://github.com/Jyrreltab=repositories" target="_blank">[HERE!]</a></br>
+     &bull; 🖥️ All my projects are available at <a href="https://github.com/Jyrrel?tab=repositories" target="_blank">[HERE!]</a></br>
      &bull; 👩‍💻 I'm currently learning <b>JAVA and Nodejs ReactJS.</b></br>
-     &bull; 📫 How to contact me <b><a href="Jyrrel:Estrada.jyrrel789@gmail.ckm" target="_blank"">Jyrrel789@gmail.com</a></b></br>
-     &bull; ⚡ My favorites hobbies are: <b>Gaming 🎮, listening to EDM 🎧, Reading Mangas 👩‍🎤 and Sleeping just kidding💤</b>
+     &bull; 📫 How to contact me <b><a href="Jyrrel:Estrada.jyrrel789@gmail.com" target="_blank"">Jyrrel789@gmail.com</a></b></br>
+     &bull; ⚡ My favorites hobbies are: <b>Gaming 🎮, listening to EDM 🎧, Reading Mangas 👩‍🎤 Sleeping just kidding💤</b>
  </p>
 </h4>
 
