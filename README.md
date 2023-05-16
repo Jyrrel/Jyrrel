@@ -1,4 +1,4 @@
-# Hi There, I'm Jyrrel 👋
+# Hi There, I'm Jyrrel A Student Developer 👋
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jyrrel&theme=dark&show_icons=true" />
 <img allign="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyrrel&langs_count=8"/>
 
