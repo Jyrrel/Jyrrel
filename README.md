@@ -1,4 +1,4 @@
-# Hi There, I'm Jyrrel A Student Developer 👋
+# Hi There, I'm Jyrrel James N. Estrada From Cagayan De Oro City. A Student Developer🤖
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jyrrel&theme=dark&show_icons=true" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
 
