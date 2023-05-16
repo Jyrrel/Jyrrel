@@ -140,7 +140,7 @@
 
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
- <img src="https://media4.giphy.com/media/Vx3QkAYmwXbre7JR5C/giphy.webp?cid=6c09b952487f980c40c018ae58a04273e4329ad8615bcb40&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" />
+ <img align="center" width="80%" src="https://media4.giphy.com/media/Vx3QkAYmwXbre7JR5C/giphy.webp?cid=6c09b952487f980c40c018ae58a04273e4329ad8615bcb40&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" />
 
 <div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="28"> </h3> </div> 
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Jyrrel/Jyrrel"> </h3> </p></br>
