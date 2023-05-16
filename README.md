@@ -24,7 +24,7 @@
 
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
-
+<img src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif"/>
 <h3 align="center">
   <b>🤹‍ My main skills </b>
 </h3>
@@ -106,7 +106,7 @@
 </div> 
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
-
+<img src="https://media0.giphy.com/media/lgTpcy4dkdUc0/giphy.webp?cid=6c09b952cb99e6539dfa26476998b909255b6178a5e872b8&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" />
 <h3 align="center">
   <b>📱 Connect with me</b>
 </h3>
@@ -131,7 +131,6 @@
   <a href="https://github.com/Jyrrel">
       <img align="right" width=420 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jyrrel&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
     </a>
-      <img align="left" width=350 src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jyrrel&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia" />
     <br><br><br><br><br><br><br><br><br><br>
       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jyrrel&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD" width="100%" />
 </p>
