@@ -14,7 +14,7 @@
 
 <h4>
  <p align="center">
-     &bull; 👩‍🎓 I'm currently studying at <a href="https://www.liceo.edu.ph" target="_blank">[LDCU]</a></br>
+     &bull; 👩‍🎓 I'm currently studying at <a href="https://www.ustp.edu.ph/" target="_blank">[USTP]</a></br>
      &bull; 🖥️ All my projects are available at <a href="https://github.com/Jyrrel?tab=repositories" target="_blank">[HERE!]</a></br>
      &bull; 👩‍💻 I'm currently learning <b>JavaScript and NodeJS ReactJS.</b></br>
      &bull; 📫 How to contact me <b><a href="Jyrrel:Estrada.jyrrel789@gmail.com" target="_blank"">Jyrrel789@gmail.com</a></b></br>
@@ -23,9 +23,9 @@
 </h4>
 
 
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
-<img src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif" />
-<h3 align="center">
+<p align="center">
+  <img width="460" height="300" src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif">
+</p>
   <b>🤹‍ My main skills </b>
 </h3>
 
