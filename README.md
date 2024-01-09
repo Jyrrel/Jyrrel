@@ -24,7 +24,7 @@
 
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
-<img src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif"/>
+<img src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif" />
 <h3 align="center">
   <b>🤹‍ My main skills </b>
 </h3>
