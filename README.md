@@ -128,10 +128,9 @@
 <p align=center>
 
   <a href="https://github.com/Jyrrel">
-      <img align="right" width=420 src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jyrrel&PAT_1=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&layout=compact&bg_color=050F2C&title_color=0195DD&theme=algolia"/>
-    </a>
-    <br><br><br><br><br><br><br><br><br><br>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jyrrel&bg_color=050F2C&color=0195DD&theme=algolia&radius=9&line=ffffff&point=0195DD" width="100%" />
+ <p align="center">
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Jyrrel&count_private=true&theme=tokyonight" /> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyrrel&layout=compact&theme=tokyonight" />
+ </p>
 </p>
 </details>
 
