@@ -16,9 +16,9 @@
  <p align="center">
      &bull; 👩‍🎓 I'm currently studying at <a href="https://coc.phinma.edu.ph/" target="_blank">[COC]</a></br>
      &bull; 🖥️ All my projects are available at <a href="https://github.com/Jyrrel?tab=repositories" target="_blank">[HERE!]</a></br>
-     &bull; 👩‍💻 I'm currently learning <b>JavaScript and NodeJS ReactJS.</b></br>
+     &bull; 👩‍💻 I'm currently learning <b>JavaScript,NodeJS and ReactJS.</b></br>
      &bull; 📫 How to contact me <b><a href="Jyrrel:Estrada.jyrrel789@gmail.com" target="_blank"">Jyrrel789@gmail.com</a></b></br>
-     &bull; ⚡ My favorites hobbies are: <b>Gaming 🎮, Coding 🧑‍💻, Reading Mangas 👩‍🎤 Sleeping lol jk💤</b>
+     &bull; ⚡ My favorites hobbies are: <b>Gaming 🎮, Coding 🧑‍💻, Reading Manhwa👩‍🎤 Sleeping lol jk💤</b>
  </p>
 </h4>
 
@@ -49,7 +49,6 @@
 <div style="display: inline_block" align="center">
   <img align="center" alt="SqLite" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"> 
   <img align="center" alt="MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
-  <img align="center" alt="Postgresql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"> 
   <br>
 </div> 
 
