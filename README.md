@@ -1,9 +1,17 @@
  <img width="100%" height="50" src="etc/bar-nav.gif"/>
  
+<div align="center">
+
  <div align="center"> 
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!,+Welcome!+✌🏻;I'm+Jyrrel+Estrada.;+A+Frontend+Developer!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!,+Welcome!+✌🏻;I'm+Jyrrel+Estrada.;+An+IT+Student!&center=true&size=30">
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 80px>
+ </div>
+ 
+
+
+</div>
+
  </div>
  
  <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
@@ -99,6 +107,7 @@
     <a href="https://github.com/Jyrrel" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-Jyrrel" height="30" width="40" />
     </a>
     <a href="https://m.facebook.com/Jyrrel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook-JyrrelEstrada" height="30" width="40" />
+<a href="https://www.linkedin.com/in/jyrrel-estrada-0a3a65337/"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin-2.png" height="30" width="40" />
     </a>  
     <a href="https://open.spotify.com/user/31l24dpfeszebysvkjbcqpsiksoy" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify-Jyrrel_" height="30" width="40" />
     </a>
@@ -119,14 +128,22 @@
 </p>
 </details>
 
+
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<div align="center">
+<table>
+  <tr>
+    <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
+    <td><img src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
+  </tr>
+</table>
+</div>
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
  <img align="center" width="30%" src="https://media4.giphy.com/media/Vx3QkAYmwXbre7JR5C/giphy.webp?cid=6c09b952487f980c40c018ae58a04273e4329ad8615bcb40&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" />
 
 <div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="28"> </h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Jyrrel/Jyrrel"> </h3> </p></br>
-
 <img width="100%" height="50" src="etc/bar-nav.gif"/></br>
