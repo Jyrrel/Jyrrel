@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif">
+  <img width="400" height="200" src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif">
 </p>
   <b>🤹‍ My main skills </b>
 </h3>
