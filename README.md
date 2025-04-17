@@ -34,7 +34,7 @@
 </h4>
 <div style="display: inline_block" align="center">
   <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-  <img align="center" alt="NodeJS" height="40" width="50" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img align="center" alt="NodeJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <br>
 </div> 
@@ -87,11 +87,6 @@
 <div style="display: inline_block" align="center">
    <img align="center" alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
    <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-   <img align="center" alt="Lombok" height="40" width="40" src="https://www.clipartmax.com/png/full/255-2556400_project-lombok-logo.png">
-   <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="ApacheTomCat" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg"> 
-   <img align="center" alt="Wildfly" height="40" width="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wildfly_logo_icon_169793.png"> 
-   <img align="center" alt="Hibernate" height="40" width="40" src="https://design.jboss.org/hibernate/logo/final/hibernate_logo_whitebkg_stacked_256px.png">
   <br>
 </div> 
 
@@ -126,10 +121,10 @@
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
 
-
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
- <img align="center" width="80%" src="https://media4.giphy.com/media/Vx3QkAYmwXbre7JR5C/giphy.webp?cid=6c09b952487f980c40c018ae58a04273e4329ad8615bcb40&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" />
+ <img align="center" width="30%" src="https://media4.giphy.com/media/Vx3QkAYmwXbre7JR5C/giphy.webp?cid=6c09b952487f980c40c018ae58a04273e4329ad8615bcb40&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" />
 
 <div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="28"> </h3> </div> 
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Jyrrel/Jyrrel"> </h3> </p></br>
