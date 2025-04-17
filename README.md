@@ -14,7 +14,7 @@
 
 <h4>
  <p align="center">
-     &bull; 👩‍🎓 I'm currently studying at <a href="https://www.ustp.edu.ph/" target="_blank">[USTP]</a></br>
+     &bull; 👩‍🎓 I'm currently studying at <a href="https://coc.phinma.edu.ph/" target="_blank">[COC]</a></br>
      &bull; 🖥️ All my projects are available at <a href="https://github.com/Jyrrel?tab=repositories" target="_blank">[HERE!]</a></br>
      &bull; 👩‍💻 I'm currently learning <b>JavaScript and NodeJS ReactJS.</b></br>
      &bull; 📫 How to contact me <b><a href="Jyrrel:Estrada.jyrrel789@gmail.com" target="_blank"">Jyrrel789@gmail.com</a></b></br>
@@ -34,7 +34,7 @@
 </h4>
 <div style="display: inline_block" align="center">
   <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+  <img align="center" alt="NodeJS" height="40" width="50" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <br>
 </div> 
@@ -42,13 +42,6 @@
 <h4 align="center">
   <b>
 
-<h4 align="center">
-  <b> 📱 <i>Mobile App Development:</i></b>
-</h4>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Android" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"> 
-  <br>
-</div> 
 
 <h4 align="center">
   <b> 🛢 <i>Databases:</i></b>
@@ -64,7 +57,6 @@
   <b> ⚙ <i>Frameworks:</i></b>
 </h4>
 <div style="display: inline_block" align="center">
-  <img align="center" alt=".Net" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"> 
   <img align="center" alt="Vue.js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> 
   <br>
@@ -79,7 +71,6 @@
    <img align="center" alt="Eclipse" height="40" width="50" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"> 
    <img align="center" alt="Intellij" height="40" width="50" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"> 
    <img align="center" alt="NetBeans" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"> 
-   <img align="center" alt="AndroidStudio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg"> 
   <br>
 </div> 
 
