@@ -26,7 +26,7 @@
      &bull; 🖥️ All my projects are available at <a href="https://github.com/Jyrrel?tab=repositories" target="_blank">[HERE!]</a></br>
      &bull; 👩‍💻 I'm currently learning <b>JavaScript,NodeJS and ReactJS.</b></br>
      &bull; 📫 How to contact me <b><a href="Jyrrel:Estrada.jyrrel789@gmail.com" target="_blank"">Jyrrel789@gmail.com</a></b></br>
-     &bull; ⚡ My favorites hobbies are: <b>Gaming 🎮, Coding 🧑‍💻, Reading Manhwa👩‍🎤 Sleeping lol jk💤</b>
+     &bull; ⚡ My favorites hobbies are: <b>Gaming 🎮, Coding 🧑‍💻, Reading Manhwa👩‍🎤 Sleeping💤</b>
  </p>
 </h4>
 
