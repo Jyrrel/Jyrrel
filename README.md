@@ -39,7 +39,7 @@
 </h4>
 
 <h4 align="center">
-  <b> 🖥 <i>Backend Languages:</i></b>
+  <b> 🖥 <i>MLanguages:</i></b>
 </h4>
 <div style="display: inline_block" align="center">
   <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
