@@ -35,7 +35,6 @@
   <img width="400" height="200" src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif">
 </p>
 <h4 align="center">
-  <b>🤹‍ Main Skills: </b>
 </h4>
 
 <h4 align="center">
