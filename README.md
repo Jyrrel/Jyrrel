@@ -1,149 +1,113 @@
- <img width="100%" height="50" src="etc/bar-nav.gif"/>
- 
+<!-- Header banner -->
 <div align="center">
 
- <div align="center"> 
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="100">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!,+Welcome!+✌🏻;I'm+Jyrrel+Estrada.;+An+IT+Student!&center=true&size=30">
-    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 80px>
- </div>
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jyrrel%20Estrada&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
+<a href="https://github.com/Jyrrel">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+Welcome+%F0%9F%91%8B;I%27m+Jyrrel+James+Estrada;I+build+things+with+code+%F0%9F%92%BB;NCII+Certified+%7C+3rd+Year+IT+Student" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Jyrrel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Jyrrel?label=Followers&style=flat-square&color=38bdf8" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square" alt="status" />
 
 </div>
 
- </div>
- 
- <a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
+---
 
-<h3 align="center">
- <b>🧑🏻‍💻 About me </b>
-</h3>
+## 🧑‍💻 About Me
 
-<h4>
- <p align="center">
-     &bull; 👩‍🎓 I'm currently studying at <a href="https://coc.phinma.edu.ph/" target="_blank">[COC]</a></br>
-     &bull; 🖥️ All my projects are available at <a href="https://github.com/Jyrrel?tab=repositories" target="_blank">[HERE!]</a></br>
-     &bull; 👩‍💻 I'm currently learning <b>JavaScript,NodeJS and ReactJS.</b></br>
-     &bull; 📫 How to contact me <b><a href="Jyrrel:Estrada.jyrrel789@gmail.com" target="_blank"">Jyrrel789@gmail.com</a></b></br>
-     &bull; ⚡ My favorites hobbies are: <b>Gaming 🎮, Coding 🧑‍💻, Reading Manhwa👩‍🎤 Sleeping💤</b>
- </p>
-</h4>
+```js
+const jyrrel = {
+  name: "Jyrrel James N. Estrada",
+  pronouns: "he/him",
+  school: "PHINMA COC",
+  course: "BSIT (3rd Year)",
+  location: "Philippines 🇵🇭",
+  certification: "NCII Computer Systems Servicing",
+  currentlyLearning: ["JavaScript", "Node.js", "React.js", "Next.js"],
+  hobbies: ["Gaming 🎮", "Coding 🧑‍💻", "Reading Manhwa 📖", "Sleeping 💤"],
+  funFact: "I debug better after a nap.",
+};
+```
 
-
-<p align="center">
-  <img width="400" height="200" src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif">
-</p>
-<h4 align="center">
-</h4>
-
-<h4 align="center">
-  <b> 🖥 <i>Languages:</i></b>
-</h4>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-  <img align="center" alt="NodeJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-  <br>
-</div> 
-
-<h4 align="center">
-  <b>
-
-
-<h4 align="center">
-  <b> 🛢 <i>Databases:</i></b>
-</h4>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="SqLite" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg"> 
-  <img align="center" alt="MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"> 
-  <br>
-</div> 
-
-<h4 align="center">
-  <b> ⚙ <i>Frameworks:</i></b>
-</h4>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"> 
-  <img align="center" alt="Vue.js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> 
-  <br>
-</div> 
-
-<h4 align="center">
-  <b> 🖥️ <i>IDEs:</i></b>
-</h4>
-<div style="display: inline_block" align="center">
-   <img align="center" alt="VisualStudioCode" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"> 
-   <img align="center" alt="VisualStudio" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"> 
-   <img align="center" alt="Eclipse" height="40" width="50" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"> 
-   <img align="center" alt="Intellij" height="40" width="50" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"> 
-   <img align="center" alt="NetBeans" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg"> 
-  <br>
-</div> 
-
-<h4 align="center">
-  <b> 🪳 <i>Tests:</i></b>
-</h4>
-<div style="display: inline_block" align="center">
-  <img align="center" alt="JUnit 5" height="40" width="50" src="https://blog.stylingandroid.com/wp-content/uploads/2017/02/junit5-logo-150x150.png"> 
-  <br>
-</div> 
-
-<h4 align="center">
-  <b> 🛠️<i>Others:</i></b>
-</h4>
-<div style="display: inline_block" align="center">
-   <img align="center" alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> 
-   <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> 
-  <br>
-</div> 
-
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
-<img src="https://media0.giphy.com/media/lgTpcy4dkdUc0/giphy.webp?cid=6c09b952cb99e6539dfa26476998b909255b6178a5e872b8&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" />
-<h3 align="center">
-  <b>📱 Connect with me</b>
-</h3>
-<div style="display: inline_block" align="center">
-    <a href="https://github.com/Jyrrel" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-Jyrrel" height="30" width="40" />
-    </a>
-    <a href="https://m.facebook.com/Jyrrel1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook-JyrrelEstrada" height="30" width="40" />
-<a href="https://www.linkedin.com/in/jyrrel-estrada-0a3a65337/"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin-2.png" height="30" width="40" />
-    </a>  
-    <a href="https://open.spotify.com/user/31l24dpfeszebysvkjbcqpsiksoy" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" alt="Spotify-Jyrrel_" height="30" width="40" />
-    </a>
-    </a>
-  <br>
-</div>
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
-
-<h3 align="center">
-  <b>👨‍💻 Top Languages Repo and Commit Details</b>
-</h3>
-<p align=center>
-
-  <a href="https://github.com/Jyrrel">
- <p align="center">
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=Jyrrel&count_private=true&theme=tokyonight" /> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyrrel&layout=compact&theme=tokyonight" />
- </p>
-</p>
-</details>
-
-
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+- 🎓 Currently studying at [PHINMA COC](https://coc.phinma.edu.ph/)
+- 🔭 Building school projects: POS systems, inventory systems, patient records, and more
+- 🌱 Learning **JavaScript, Node.js, React.js and Next.js**
+- 📂 All my projects: [see my repositories](https://github.com/Jyrrel?tab=repositories)
+- 📫 Reach me at **[Estrada.jyrrel789@gmail.com](mailto:Estrada.jyrrel789@gmail.com)**
 
 <div align="center">
-<table>
-  <tr>
-    <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
-    <td><img src="https://profile-counter.glitch.me/Jyrrel/count.svg" alt="" /></td>
-  </tr>
-</table>
+  <img src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif" width="400" alt="junji ito" />
 </div>
 
-<a align="left" href="#"><img width="100%" height="1" src="etc/bar.gif" /></a>
- <img align="center" width="30%" src="https://media4.giphy.com/media/Vx3QkAYmwXbre7JR5C/giphy.webp?cid=6c09b952487f980c40c018ae58a04273e4329ad8615bcb40&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g" />
+---
 
-<div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="28"> </h3> </div> 
-<img width="100%" height="50" src="etc/bar-nav.gif"/></br>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,python,java,php,c&theme=dark" alt="languages" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,vue,bootstrap&theme=dark" alt="frameworks" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="databases" />
+
+**Tools & IDEs**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,eclipse,idea,netbeans&theme=dark" alt="tools" />
+
+**Testing**
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="java" /> JUnit 5
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jyrrel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyrrel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Jyrrel&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jyrrel/Jyrrel/output/github-snake-dark.svg" width="100%" alt="snake" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Jyrrel"><img src="https://img.shields.io/badge/GitHub-Jyrrel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jyrrel-estrada-0a3a65337/"><img src="https://img.shields.io/badge/LinkedIn-Jyrrel%20Estrada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://m.facebook.com/Jyrrel1"><img src="https://img.shields.io/badge/Facebook-Jyrrel-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://open.spotify.com/user/31l24dpfeszebysvkjbcqpsiksoy"><img src="https://img.shields.io/badge/Spotify-What%20I%20Listen%20To-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+<a href="mailto:Estrada.jyrrel789@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+<br/><br/>
+
+*Thanks for visiting! Drop a ⭐ if you like what you see.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+
+</div>
