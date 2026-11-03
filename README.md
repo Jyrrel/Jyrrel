@@ -37,7 +37,7 @@ const jyrrel = {
 - 🔭 Building school projects: POS systems, inventory systems, patient records, and more
 - 🌱 Learning **JavaScript, Node.js, React.js and Next.js**
 - 📂 All my projects: [see my repositories](https://github.com/Jyrrel?tab=repositories)
-- 📫 Reach me at **[Estrada.jyrrel789@gmail.com](mailto:Estrada.jyrrel789@gmail.com)**
+- 📫 Reach me at **[jyrrel789@gmail.com](mailto:jyrrel789@gmail.com)**
 
 <div align="center">
   <img src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif" width="400" alt="junji ito" />
