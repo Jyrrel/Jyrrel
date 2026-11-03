@@ -1,72 +1,113 @@
+<!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a5f&height=170&section=header&text=Jyrrel%20James%20Estrada&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Web%20Developer%20%C2%B7%20BSIT%20Student%20%C2%B7%20NCII%20Certified&descAlignY=66&descSize=18&descColor=94a3b8" width="100%" alt="Jyrrel James Estrada" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Jyrrel%20Estrada&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
+
+<a href="https://github.com/Jyrrel">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+Welcome+%F0%9F%91%8B;I%27m+Jyrrel+James+Estrada;I+build+things+with+code+%F0%9F%92%BB;NCII+Certified+%7C+3rd+Year+IT+Student" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jyrrel-estrada-0a3a65337/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:Estrada.jyrrel789@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Jyrrel?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
-<img src="https://komarev.com/ghpvc/?username=Jyrrel&label=Profile%20Views&color=1e3a5f&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Jyrrel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Jyrrel?label=Followers&style=flat-square&color=38bdf8" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-22c55e?style=flat-square" alt="status" />
 
 </div>
 
-<br/>
+---
 
-## About
+## 🧑‍💻 About Me
 
-I'm a third-year Bachelor of Science in Information Technology student at [PHINMA COC](https://coc.phinma.edu.ph/), focused on web development and database-driven systems. My coursework projects range from point-of-sale and price-lookup tools to patient records and a barangay website.
+```js
+const jyrrel = {
+  name: "Jyrrel James N. Estrada",
+  pronouns: "he/him",
+  school: "PHINMA COC",
+  course: "BSIT (3rd Year)",
+  location: "Philippines 🇵🇭",
+  certification: "NCII Computer Systems Servicing",
+  currentlyLearning: ["JavaScript", "Node.js", "React.js", "Next.js"],
+  hobbies: ["Gaming 🎮", "Coding 🧑‍💻", "Reading Manhwa 📖", "Sleeping 💤"],
+  funFact: "I debug better after a nap.",
+};
+```
 
-I'm currently deepening my skills in **Node.js, React and Next.js**, and I'm open to internship and entry-level opportunities.
+- 🎓 Currently studying at [PHINMA COC](https://coc.phinma.edu.ph/)
+- 🔭 Building school projects: POS systems, inventory systems, patient records, and more
+- 🌱 Learning **JavaScript, Node.js, React.js and Next.js**
+- 📂 All my projects: [see my repositories](https://github.com/Jyrrel?tab=repositories)
+- 📫 Reach me at **[Estrada.jyrrel789@gmail.com](mailto:Estrada.jyrrel789@gmail.com)**
 
-Outside of coding, I enjoy gaming and reading manhwa.
+<div align="center">
+  <img src="https://media.tenor.com/6eOFyYUIA5YAAAAC/junji-ito.gif" width="400" alt="junji ito" />
+</div>
 
-<br/>
+---
 
-## Technical Skills
-
-| | |
-| :-- | :-- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-1e293b?style=flat-square&logo=php&logoColor=8892BF) ![Python](https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=3776AB) ![Java](https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=ED8B00) ![C](https://img.shields.io/badge/C-1e293b?style=flat-square&logo=c&logoColor=A8B9CC) |
-| **Front-End** | ![HTML5](https://img.shields.io/badge/HTML5-1e293b?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1e293b?style=flat-square&logo=css3&logoColor=1572B6) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1e293b?style=flat-square&logo=bootstrap&logoColor=7952B3) ![Next.js](https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-1e293b?style=flat-square&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-1e293b?style=flat-square&logo=vuedotjs&logoColor=4FC08D) |
-| **Back-End** | ![Node.js](https://img.shields.io/badge/Node.js-1e293b?style=flat-square&logo=nodedotjs&logoColor=339933) ![PHP](https://img.shields.io/badge/PHP-1e293b?style=flat-square&logo=php&logoColor=8892BF) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=4479A1) ![SQLite](https://img.shields.io/badge/SQLite-1e293b?style=flat-square&logo=sqlite&logoColor=0F80CC) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-1e293b?style=flat-square&logo=linux&logoColor=FCC624) ![VS Code](https://img.shields.io/badge/VS%20Code-1e293b?style=flat-square&logo=visualstudiocode&logoColor=007ACC) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-1e293b?style=flat-square&logo=intellijidea&logoColor=white) |
-
-<br/>
-
-## Selected Projects
-
-| Project | Technologies | Description |
-| :-- | :-- | :-- |
-| **[Sari-Sari Store POS](https://github.com/Jyrrel?tab=repositories)** | JavaScript | Point-of-sale system with a 50-product catalog and multi-item cart checkout. |
-| **[Price Verification Tool](https://github.com/Jyrrel?tab=repositories)** | HTML, JavaScript, Axios, PHP | Product price lookup backed by a PHP API. |
-| **[Patient Record System](https://github.com/Jyrrel?tab=repositories)** | Database design | Relational design for users, doctors, patients, appointments and consultations. |
-| **[Barangay Website](https://github.com/Jyrrel?tab=repositories)** | Web development | Informational website for a local barangay. |
-
-<div align="right"><a href="https://github.com/Jyrrel?tab=repositories">View all repositories &rarr;</a></div>
-
-<br/>
-
-## GitHub Activity
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/Jyrrel/Jyrrel/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
-<img height="170" src="https://raw.githubusercontent.com/Jyrrel/Jyrrel/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,html,css,python,java,php,c&theme=dark" alt="languages" />
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,vue,bootstrap&theme=dark" alt="frameworks" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="databases" />
+
+**Tools & IDEs**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,eclipse,idea,netbeans&theme=dark" alt="tools" />
+
+**Testing**
+
+<img src="https://skillicons.dev/icons?i=java&theme=dark" alt="java" /> JUnit 5
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jyrrel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyrrel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Jyrrel&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jyrrel/Jyrrel/output/github-snake-dark.svg" width="100%" alt="snake" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Jyrrel"><img src="https://img.shields.io/badge/GitHub-Jyrrel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jyrrel-estrada-0a3a65337/"><img src="https://img.shields.io/badge/LinkedIn-Jyrrel%20Estrada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://m.facebook.com/Jyrrel1"><img src="https://img.shields.io/badge/Facebook-Jyrrel-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://open.spotify.com/user/31l24dpfeszebysvkjbcqpsiksoy"><img src="https://img.shields.io/badge/Spotify-What%20I%20Listen%20To-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+<a href="mailto:Estrada.jyrrel789@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Jyrrel/Jyrrel/output/github-snake-dark.svg" width="100%" alt="Contribution graph" />
+*Thanks for visiting! Drop a ⭐ if you like what you see.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
-
-<br/>
-
-## Contact
-
-- **Email:** [Estrada.jyrrel789@gmail.com](mailto:Estrada.jyrrel789@gmail.com)
-- **LinkedIn:** [Jyrrel Estrada](https://www.linkedin.com/in/jyrrel-estrada-0a3a65337/)
-- **Facebook:** [Jyrrel](https://m.facebook.com/Jyrrel1)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3a5f,100:0f172a&height=60&section=footer" width="100%" alt="" />
