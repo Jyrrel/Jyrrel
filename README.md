@@ -77,10 +77,11 @@ const jyrrel = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jyrrel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyrrel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+<img height="180" src="https://raw.githubusercontent.com/Jyrrel/Jyrrel/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+<img height="180" src="https://raw.githubusercontent.com/Jyrrel/Jyrrel/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="most commit language" />
 
-<img src="https://streak-stats.demolab.com/?user=Jyrrel&theme=tokyonight&hide_border=true" alt="streak" />
+<img height="180" src="https://raw.githubusercontent.com/Jyrrel/Jyrrel/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
+<img height="180" src="https://raw.githubusercontent.com/Jyrrel/Jyrrel/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
 
 </div>
 
